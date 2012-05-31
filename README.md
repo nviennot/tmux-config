@@ -25,7 +25,7 @@ Key Bindings
 `Alt + Arrow` Resize pane  
 
 `Alt + PageUp` Copy mode and page up  
-`Alt + [` Copy mode  
+`Alt + [` Copy mode (disabled, because it messes Home and End when using zsh, need help)  
 `Alt + ]` Paste  
 
 `Alt + 8` Choose a session to attach  
