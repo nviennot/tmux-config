@@ -51,6 +51,6 @@ Notes
 -----
 
 The status bar is hidden by default (type `tmux set status` to toggle it)
-because creating windows in not part of my workflow.
+because creating windows is not part of my workflow.
 I'd rather open a new tab in my terminal, or a new terminal.
 To me, Tmux is a fix to what my terminal should have builtin.
