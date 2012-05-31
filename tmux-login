@@ -1,0 +1,6 @@
+#!/bin/bash
+if [[ -t 0 && -t 1 && -t 2 && $# == 0 ]]; then
+	exec tmux -q -2 set -g default-shell /bin/zsh \; new-session
+else
+	exec /bin/bash "$@"
+fi
