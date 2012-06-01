@@ -14,6 +14,10 @@ To update the repository, run
 Key Bindings
 -------------
 
+`Alt + E` Prefix (you probably won't need it)  
+
+The following key bindings do not require you to send the prefix keystroke:
+
 `Alt + |` Split vertically  
 `Alt + -` Split horizontally
 
@@ -25,16 +29,14 @@ Key Bindings
 `Alt + Arrow` Resize pane  
 
 `Alt + PageUp` Copy mode and page up  
-`Alt + [` Copy mode (disabled, because it messes Home and End when using zsh, need help)  
-`Alt + ]` Paste  
+`Alt + U` Copy mode
+`Alt + I` Paste  
 
 `Alt + 8` Choose a session to attach  
 `Alt + 9` Cycle left through sessions  
 `Alt + 0` Cycle right through sessions  
 
 `Alt + D` Detach  
-
-`Ctrl + E` Prefix  
 
 Ubiquitous Tmux
 ----------------
