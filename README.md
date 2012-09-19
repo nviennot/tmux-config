@@ -26,6 +26,8 @@ The following key bindings do not require you to send the prefix keystroke:
 `Alt + K` Go to the top pane  
 `Alt + L` Go to the right pane  
 
+`Alt + =` Equal vertial panes  
+`Alt + +` Equal horizontal panes  
 `Alt + Arrow` Resize pane  
 
 `Alt + PageUp` Copy mode and page up  
