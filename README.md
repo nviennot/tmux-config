@@ -38,8 +38,6 @@ The following key bindings do not require you to send the prefix keystroke:
 `Alt + 9` Cycle left through sessions  
 `Alt + 0` Cycle right through sessions  
 
-`Alt + D` Detach  
-
 Ubiquitous Tmux
 ----------------
 
