@@ -38,16 +38,6 @@ The following key bindings do not require you to send the prefix keystroke:
 `Alt + 9` Cycle left through sessions  
 `Alt + 0` Cycle right through sessions  
 
-Ubiquitous Tmux
-----------------
-
-You can use `tmux-login` as a login shell to always run your favorite shell
-inside a tmux session.
-
-**Important:** It's nearly impossible to get a terminal without a tmux session,
-so attaching to a remote tmux session (e.g. doing pair programing) can be challenging.
-Running `konsole zsh` or `xterm zsh` (replace with your terminal) spawns a
-terminal without tmux.
 
 Notes
 -----
